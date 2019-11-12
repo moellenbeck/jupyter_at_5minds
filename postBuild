@@ -1,5 +1,23 @@
+## jupyter_contrib_nbextensions installieren
+jupyter contrib nbextension install --user
+
+##################################
+
+## installation der configuration manager
+jupyter nbextensions_configurator enable --user
+
+##################################
+
 ## qgrid konfigurieren
 jupyter nbextension enable --py --sys-prefix qgrid
 
 # only required if you have not enabled the ipywidgets nbextension yet
 jupyter nbextension enable --py --sys-prefix widgetsnbextension
+
+##################################
+
+## agrid
+jupyter labextension install ipyaggrid
+
+# if not already installed
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
