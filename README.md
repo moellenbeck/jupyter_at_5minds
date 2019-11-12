@@ -1,2 +1,9 @@
-# juypter_getting_started
-Einstieg in Juypter im Rahmen der 5Minds-Weekly Termine
+# Jupyter bei 5Minds
+
+Um allen im Team einen Einstieg in Juypter-Notebooks und Co. zu ermöglichen, ist im Rahmen der Team-Weekly
+eine kurze Einstiegspräsentation gehalten worden.
+
+Damit jeder direkt starten kann, ist hier der Link auf [Binder](http://mybinder.org) für diese Notebook direkt
+hinterlegt.
+
+
